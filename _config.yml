@@ -1,0 +1,14 @@
+layout_spectrum: 0.9663096568547189
+typography_spectrum: 0.8084381183143705
+color:
+  brandStrength: 0.1848835996352136
+  lightness: 0.5274756327271461
+  saturation: 0.2596103185787797
+  rhythmicContrast: 0.6930680202785879
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Tommyfield.Me
